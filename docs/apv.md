@@ -2,53 +2,56 @@
 
 ## Wetstechnische informatie
 
-| **Kenmerk**                | **Details**                          |
-|----------------------------|--------------------------------------|
-| Overheidsorganisatie       | Staff der Wave                |
-| Officiële naam regeling    | Algemene Plaatselijke Verordening Wave |
-| Citeertitel                | Algemene Plaatselijke Verordening Wave |
-| Vastgesteld door           | De Hoge Raad                        |
-| Onderwerp                  | Openbare orde en veiligheid         |
+| | |
+|---|---|
+| Overheidsorganisatie      | Bestuur Wave |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Wave|
+| Citeertitel               | Algemene Plaatselijke Verordening Wave|
+| Vastgesteld door          | Het Bestuur|
+| Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij overschreven door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
-### **A-1 - Reikwijdte**
+### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening, hierna te noemen **APV**, is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente en de stad Wave.
-2. De APV biedt een indicatief kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Wave.
+2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
-### **A-2 - Geldigheid**
+### A2 - Geldigheid
 
-1. Bij wijzigingen in de wetgeving na het tijdstip waarop het feit is begaan, worden de voor de verdachte meest gunstige bepalingen toegepast.
-2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die betrekking heeft op zichzelf, vrienden en/of familie. Dit om te waarborgen dat een zaak op een eerlijke en rechtvaardige manier wordt behandeld.
-3. Indien er tegen staff gelogen wordt en dit met hard bewijs (bijvoorbeeld logbestanden) wordt aangetoond, kan ervoor worden gekozen de straf te verzwaren.
-4. Wanneer je meer dan 2 weken wacht om een ticket aan te maken, kom je niet meer in aanmerking om een refund te ontvangen.
+1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
+2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
+3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
 
-### **A-3 - Strafbepaling**
+### A3 - Strafbepaling
 
-1. De straffen zijn onderverdeeld in de volgende categorieën:
-    * **Categorie 1:** Een waarschuwing + 50 uur taakstraf
-      *(Maximaal 3 waarschuwingen in 1 maand; hierna volgt een verzwaring naar categorie 2.)*
-    * **Categorie 2:** Een ban van 1 dag
-    * **Categorie 3:** Een ban van 2 dagen
-    * **Categorie 4:** Een ban van 3 dagen
-    * **Categorie 5:** Een ban van 1 week
-    * **Categorie 6:** Een ban van 1 maand
-    * **Categorie 7:** Permanente ban
+1. De straffen zijn onderverdeeld in acht categorieën:
+    * Categorie 1: een waarschuwing + 50 uur taakstraf
+       *(max 3 waarschuwingen in 1 maand, hierna volgt de automatisch oplegging cat. 2)
 
-2. De straffen van categorie 5, 6 en 7 kunnen preventief worden opgelegd. Er zal dan nader onderzoek worden gedaan om de strafmaat te bepalen.
-3. Een staff-lid kan besluiten de strafmaat te verhogen of te verlagen op basis van context, situatie of eerdere overtredingen van de persoon in kwestie. Bij onenigheid over een oordeel kan een ticket worden aangemaakt.
-4. Een mondelinge waarschuwing dient in een notitie bij de persoon te worden geregistreerd; anders is deze niet geldig.
-5. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7.
-6. Bans worden uitgedeeld op basis van de GTA-licentie en het IP-adres. Dit geldt voor alle gebruikers van deze kenmerken.
+    * Categorie 2: een ban van 1 dag
 
-> **Opmerking:** Waarschuwingen zijn 3 maanden geldig. Daarna vervallen ze automatisch.
+    * Categorie 3: een ban van 2 dagen
 
----
+    * Categorie 4: een ban van 3 dagen
+
+    * Categorie 5: een ban van 1 week
+
+    * Categorie 6: een ban van 1 maand
+
+    * Categorie 7: permanente ban
+
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen superadmin+ en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
+4. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
+5. Het omzeilen van een straf zal resulteren in een permanente ban.
+6. Bans worden uitgedeeld op basis van de GTA licentie en IP-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
+
+    Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
 
 ## Overtredingen - Verstoring openbare orde (TS)
 
@@ -265,4 +268,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Wave”, opgetekend door Silent Sources, te Wave.
+APV opgesteld uit naam van de Bestuur, bedoeld voor het eiland, de gemeente en de stad “Wave”, opgetekend door Silent Sources, te Wave.
