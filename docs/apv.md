@@ -2,8 +2,8 @@
 
 ## Wetstechnische informatie
 
-| | |
-|---|---|
+| **Kenmerk**                | **Details**                          |
+|----------------------------|--------------------------------------|
 | Overheidsorganisatie      | Bestuur Wave |
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Wave|
 | Citeertitel               | Algemene Plaatselijke Verordening Wave|
