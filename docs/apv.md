@@ -10,13 +10,9 @@
 | Vastgesteld door           | De Hoge Raad                        |
 | Onderwerp                  | Openbare orde en veiligheid         |
 
----
-
 ### Opmerkingen met betrekking tot de verordening
 
 Het Wetboek van Strafrecht, specifiek bedoeld voor Wave, wordt hierbij overschreven door deze APV.
-
----
 
 ## Algemene Bepalingen
 
