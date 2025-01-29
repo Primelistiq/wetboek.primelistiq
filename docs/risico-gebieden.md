@@ -1,8 +1,8 @@
-# Risicogebieden binnen Universe
+# Risicogebieden binnen Wave
 
-Universe kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Wave kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Universe, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
+De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Wave, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
 
 ## Kaartweergave
 
@@ -78,7 +78,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Universe, 
 
 ### Car Dealer
 
-- 3212
+- 5146
 
 ### Gemeentehuis
 
@@ -100,7 +100,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Universe, 
 
 - 5152
 
-### Universe Casino
+### Wave Casino
 
 - 6047
 - 6048

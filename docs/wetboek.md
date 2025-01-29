@@ -1,12 +1,12 @@
-# Wetboek Universe
+# Wetboek Wave
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Universe |
-| Officiële naam            | Algemeen Wetboek Universe |
-| Citeertitel               | Wetboek Universe |
+| Overheidsorganisatie      | Hoge Raad Wave |
+| Officiële naam            | Algemeen Wetboek Wave |
+| Citeertitel               | Wetboek Wave |
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid |
 
@@ -14,15 +14,15 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Universe (verder aangeduid als WURP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WURP heeft betrekking op het vaste land, de gemeente, en de stad Universe.
-3. Het WURP is nauw verweven met de Algemene Plaatselijke Verordening Universe (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek Wave (verder aangeduid als WWTS) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WWTS heeft betrekking op het vaste land, de gemeente, en de stad Wave.
+3. Het WWTS is nauw verweven met de Algemene Plaatselijke Verordening Wave (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Universe op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Universe niet van toepassing.
+3. Minderjarigen worden binnen Wave op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Wave niet van toepassing.
 
 ### A3 - Verjaring van het strafbaar feit
 
@@ -57,7 +57,7 @@
 ### A5 - Strafblad
 
 1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
+2. Een strafblad blijft staan voor een periode van 1 (realtime) maand, ingaand op de datum van de opgelegde straf.
 3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf. Dit geldt enkel als het nieuwe strafblad langer blijft staan dan het huidige strafblad.
 4. Een strafblad bepaalt enkel of er een VOG (Verklaring Omtrent het Gedrag) afgegeven kan worden door de politie ten behoeve van het uitvoeren van een overheidsbaan.
 
@@ -87,7 +87,7 @@
     8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
     9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
 3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Universe waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
+    1. Plegen van een strafbaar feit uit het wetboek van Wave waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
     4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
@@ -154,6 +154,12 @@
 2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
 3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
 4. Na de 72 uur kan alleen een OvJ nog toestemming geven voor een langere hechtenis tot aan de rechtszaak.
+
+### A13 - Borgtocht
+
+1. Een verdachte heeft recht op een borgtocht indien er een huiszoeking is aangevraagd. Dit moet altijd goedgekeurd worden door een hOvJ of hoger.
+2. Bij een akkoord van een borgtocht ben je je verplicht te houden aan de afspraken die gemaakt zijn.
+3. Indien de huiszoeking per direct kan uitgevoerd worden vervalt lid 1.
 
 ## Titel I - Vermogensdelicten
 
@@ -444,9 +450,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 24-48 uur |
-| **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 48-72 uur |
-| **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  | 48-72 uur |
+|  **Eerste Veroordeling** |   | 45 uur  | € 3000,-  | 24-48 uur |
+| **Tweede Veroordeling**  |   | 75 uur | € 7500,-  | 48-72 uur |
+| **Meerdere Veroordelingen**  |   | 100 uur | € 10250,-  | 48-72 uur |
 
 ### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
@@ -529,14 +535,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel III-11 Snelheidsovertredingen
 
-1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
-2. De toegestane snelheden zijn 80KM/h en 130KM/h op de snelweg.
-3. Flitscamera's die op verschillende plaatsen staan zullen in geval van overtreding een boete uitsturen naar de overtredende partij.
-4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van onderstaande boetes.
-5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
-6. De meetcorrectie is 5 kilometer en de eerste 5 kilometer te hard rijden blijft onbestraft.
+1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor het verkeer niet in acht neemt tijdens deelname aan het verkeer.
+2. Op de snelwegen geldt een maximumsnelheid van 130km/h;
+3. Voor op de overige wegen, niet gespecificeerd als in lid 2, geldt een maximumsnelheid van 80km/h.
+4. Flitscamera's die op verschillende plaatsen staan, schrijven in geval van een overtreding een boete uit aan de overtredende partij.
+5. Er geldt een wettelijke correctie van 5 km/h en de eerste 5km/h die gemeten zijn boven de toegestane snelheid, blijven ongestraft.
 
-| ***`Binnen de Bebouwde Kom`***  |   |
+| ***`Op de overige wegen`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 400,- |
@@ -552,7 +557,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Te hard rijden 126 - 150 KM/H | € 12500,- |
 | Te hard rijden 150+ KM/H | € 15000,- |
 
-| ***`Buiten de Bebouwde Kom`***  |   |
+| ***`Op snelwegen`***  |   |
 |---|---|
 | Te hard rijden 6 - 10KM/H | € 100,- |
 | Te hard rijden 10 - 20KM/H | € 300,- |
@@ -640,6 +645,18 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Manchez | Motor |
 | Sanchez | Motor |
 | Sanchez Sport | Motor |
+
+### Artikel III-15 Straatraces
+
+1. Schuldig is een persoon die meedoet aan een straatraces.
+2. Onder straatrace word gezien als 2 of meerdere auto's naast of achter elkaar duelleren om sneller te zijn op een willekeurige of geplande route. Vaak gebeurd dit op Hoge snelheden, maar kan ook gebeuren op lage snelheden.
+3. Indien persoon de race organiseert word de straf met 33% verhoogt.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  | 24-48 uur |
+| **Tweede Veroordeling**  |   | 25 uur | € 15000,-  | 48-72 uur |
+| **Meerdere Veroordelingen**  |   | 40 uur | € 22500,-  | 48-72 uur |
 
 ## Titel IV - Opiumwet
 
@@ -1262,18 +1279,18 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
 | Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
-1. De Koninklijke Marechaussee is bevoegd aan controle te onderwerpen:
-    a. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
-    b. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    c. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden.
-    d. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, is de Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
-    e. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, is de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
-2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
-3. Fouillering geschiedt op een besloten plaats dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
-4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
-6. De Koninklijke Marechaussee is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
-7. De Koninklijke Marechaussee maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+1. De Politie en Koninklijke Marechaussee zijn bevoegd aan controle te onderwerpen:
+    1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
+    2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Politie of Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden.
+    4. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, zijn de Politie of Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
+    5. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, zijn de Politie en de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
+3. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
+4. Fouillering geschiedt op een besloten plaats. Dit mag elke agent doen van elk geslacht. De verdachte mag dan wel een voorkeur hebben van een geslacht maar mag ten alle tijden een agent van het andere geslacht hem/haar ook laten fouilleren.
+5. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
+6. De Politie en Koninklijke Marechaussee zijn bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+7. De Politie en Koninklijke Marechaussee zijn bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+8. De Politie en Koninklijke Marechaussee maken van hun bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
 ## Titel XI – Bewijs
 
@@ -1312,4 +1329,4 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Universe is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Universe”, opgetekend door Bram Mosterdfiets, te Universe.*
+*Wetboek Wave is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Wave”, opgetekend door Bram Mosterdfiets, te Wave.*
