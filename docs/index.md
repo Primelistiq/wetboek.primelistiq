@@ -15,8 +15,6 @@ Wave heeft verschillende discord servers die zijn goed gekeurd door het stadsbes
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Wave RolePlay| Main discord server van Wave | [Invite](https://discord.gg/tedeapolis) |
+|Wave Testserver| Main discord server van Wave | [Invite](https://discord.gg/wts) |
 |Wave Support| Support discord server van Wave | [Invite](https://discord.gg/uQ9jGA93yC) |
-|Wave Cardealer| Cardealer discord server van Wave | [Invite](https://discord.gg/UcCG2kn) |
-|Wave Flightschool| Vliegschool discord server van Wave | [Invite](https://discord.gg/JMrvTrZqcz) |
-|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Wave | [Invite](https://discord.gg/KPTt4ce5nw) |
+|Wave Onderwereld| Cardealer discord server van Wave | [Invite](https://discord.gg/UcCG2kn) |
