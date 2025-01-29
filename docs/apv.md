@@ -2,16 +2,6 @@
 
 ## Wetstechnische informatie
 
-### Wet van 29 november 2024
-
-Wij, de Hoge Raad der Wave, bij de gratie Gods, enz., enz., enz.
-
-Allen die deze zullen zien of horen lezen, salut! doen te weten:
-
-Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Wave (APV)** vast te stellen:
-
-**Zo is het dat wij, de staff der Wave, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Wave.**
-
 | **Kenmerk**                | **Details**                          |
 |----------------------------|--------------------------------------|
 | Overheidsorganisatie       | Staff der Wave                |
