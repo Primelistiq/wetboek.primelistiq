@@ -18,4 +18,4 @@ Wave heeft verschillende discord servers die zijn goed gekeurd door het stadsbes
 |Wave Testserver| Main discord server van Wave | [Invite](https://discord.gg/wts) |
 |Wave Support| Support discord server van Wave | [Invite](https://discord.gg/uQ9jGA93yC) |
 |Wave Onderwereld| Cardealer discord server van Wave | [Invite](https://discord.gg/UcCG2kn) |
-|Wave Eilandfights| Vliegschool discord server van Wave | [Invite](https://discord.gg/JMrvTrZqcz) |
+|Wave Eilandfight| Eilandfight discord server van Wave | [Invite](https://discord.gg/JMrvTrZqcz) |
